@@ -1,3 +1,5 @@
+// Lightweight abstraction around retrieving config from ENV
+
 module Config
 
 open System
